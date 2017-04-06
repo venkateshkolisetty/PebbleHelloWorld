@@ -1,0 +1,21 @@
+{
+    "author": "venky.svtv@live.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "helloworlddemo_06042017",
+    "pebble": {
+        "displayName": "HelloWorldDemo_06042017",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "30c0748c-07c8-4323-829e-1eaafde8a154",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
